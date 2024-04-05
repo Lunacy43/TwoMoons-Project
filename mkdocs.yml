@@ -1,5 +1,6 @@
 site_name: TwoMoons Project
 site_url: https://twomoonsproject.com/
+use_directory_urls: false
 
 theme:
   name: material
@@ -11,6 +12,7 @@ theme:
     - navigation.selections
     - toc.intergrate
     - navigation.top
+    - navigation.footer # new addition
     - search.suggest
     - search.highlight
     - content.tabs.link
@@ -62,7 +64,9 @@ markdown_extensions:
 plugins:
   - search:
       enabled: True
+  - offline
 
 copyright:
   "Copyright 2024 EnKryptic Labs"
+
 
