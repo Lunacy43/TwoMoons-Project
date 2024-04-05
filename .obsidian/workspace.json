@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Welcome.md",
-                "mode": "source",
+                "file": "docs/04-Other Game Rules/Conditions and Effects/Basics and Quick List.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 311.5
   },
   "right": {
     "id": "2caca9e9c7e17936",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Welcome.md",
+                "file": "docs/04-Other Game Rules/Conditions and Effects/Basics and Quick List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Welcome.md",
+                "file": "docs/04-Other Game Rules/Conditions and Effects/Basics and Quick List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Welcome.md"
+                "file": "docs/04-Other Game Rules/Conditions and Effects/Basics and Quick List.md"
               }
             }
           }
@@ -133,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,8 +146,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9ae37b1f808a97d",
+  "active": "cb7866260f3ee433",
   "lastOpenFiles": [
+    "docs/01-Characterization/Class/08 - Commoner.md",
+    "docs/index.md",
+    "docs/01-Characterization/Class/07 - Maker.md",
+    "docs/01-Characterization/Class/06B - Unnaturals - Non-Furian.md",
+    "docs/01-Characterization/Class/06A - Unnaturals - Furian.md",
+    "docs/01-Characterization/Class/05D - Supernaturalists - Terrene.md",
+    "docs/01-Characterization/Class/05C - Supernaturalists - Empyreal.md",
+    "docs/01-Characterization/Class/05B - Supernaturalists - Solic.md",
+    "docs/01-Characterization/Class/05A - Supernaturalists - Akmyrrists.md",
+    "docs/01-Characterization/Class/04 - Rogues.md",
+    "docs/01-Characterization/Class/03 - Fighters.md",
+    "docs/01-Characterization/Class/02 - Innates.md",
+    "docs/01-Characterization/Class/01 - Base Class Info.md",
+    "docs/01-Characterization/Stats/Trainings.md",
+    "docs/01-Characterization/Stats/Stress.md",
+    "docs/01-Characterization/Stats/Detrus.md",
+    "docs/01-Characterization/Stats/Skills.md",
+    "docs/01-Characterization/Stats/Other Stats.md",
+    "docs/01-Characterization/Stats/Noted Actions.md",
+    "docs/01-Characterization/Stats/Language and Communication.md",
+    "docs/01-Characterization/Stats/Knowledge.md",
+    "docs/01-Characterization/Stats/Health and Vitality.md",
+    "docs/01-Characterization/Stats/Energies and other Resources.md",
+    "docs/01-Characterization/Stats/Core Stats.md",
+    "docs/01-Characterization/Genetic Inclusions/4 - X-Mutations.md",
+    "docs/01-Characterization/Genetic Inclusions/3 - Psychological.md",
     "site/search/search_index.json",
     "site/search",
     "site/05-Terminology/U-V-W-X-Y-Z/index.html",
@@ -157,32 +184,6 @@
     "site/05-Terminology/M-N-O-P",
     "site/05-Terminology/I-J-K-L/index.html",
     "site/05-Terminology/I-J-K-L",
-    "site/05-Terminology/E-F-G-H/index.html",
-    "site/assets/images/favicon.png",
-    "docs/index.md",
-    "docs/Welcome.md",
-    "05-Terminology/A-B-C-D.md",
-    "05-Terminology/E-F-G-H.md",
-    "05-Terminology/I-J-K-L.md",
-    "05-Terminology/M-N-O-P.md",
-    "05-Terminology/Q-R-S-T.md",
-    "05-Terminology/U-V-W-X-Y-Z.md",
-    "03-Actions and Abilities/Techniques/SolicTech/Vibe Attuner.md",
-    "01-Characterization/Stats/Trainings.md",
-    "04-Other Game Rules/Conditions and Effects/Basics and Quick List.md",
-    "05-Terminology/0 - Terminology Guide.md",
-    "04-Other Game Rules/Basic Miscellaneous Information.md",
-    "04-Other Game Rules/Enchantments.md",
-    "04-Other Game Rules/Levels and Experience Points.md",
-    "04-Other Game Rules/Monetary Units.md",
-    "04-Other Game Rules/Rests.md",
-    "04-Other Game Rules/Roll Percentages.md",
-    "04-Other Game Rules/Damage and Related/Related Damage Info.md",
-    "04-Other Game Rules/Damage and Related/Damage Types and Effects.md",
-    "04-Other Game Rules/Conditions and Effects/Usual Conditions.md",
-    "04-Other Game Rules/Conditions and Effects/Damage Based Conditions and Effects.md",
-    "01-Characterization/Class/05B - Supernaturalists - Solic.md",
-    "03-Actions and Abilities/Techniques/SolicTech/Spirit Cultivator.md",
-    "03-Actions and Abilities/Techniques/SolicTech/Nature Keeper.md"
+    "site/assets/images/favicon.png"
   ]
 }
