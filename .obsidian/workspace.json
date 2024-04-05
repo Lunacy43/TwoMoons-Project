@@ -146,8 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb7866260f3ee433",
+  "active": "f9ae37b1f808a97d",
   "lastOpenFiles": [
+    "site/search/search_index.json",
+    "site/search/search_index.js",
+    "site/search",
+    "site/05-Terminology/U-V-W-X-Y-Z.html",
+    "site/05-Terminology/Q-R-S-T.html",
+    "site/05-Terminology/M-N-O-P.html",
+    "site/05-Terminology/I-J-K-L.html",
+    "site/05-Terminology/E-F-G-H.html",
+    "site/05-Terminology/A-B-C-D.html",
+    "site/05-Terminology/0 - Terminology Guide.html",
+    "site/05-Terminology",
+    "site/assets/images/favicon.png",
     "docs/01-Characterization/Class/08 - Commoner.md",
     "docs/index.md",
     "docs/01-Characterization/Class/07 - Maker.md",
@@ -172,18 +184,6 @@
     "docs/01-Characterization/Stats/Health and Vitality.md",
     "docs/01-Characterization/Stats/Energies and other Resources.md",
     "docs/01-Characterization/Stats/Core Stats.md",
-    "docs/01-Characterization/Genetic Inclusions/4 - X-Mutations.md",
-    "docs/01-Characterization/Genetic Inclusions/3 - Psychological.md",
-    "site/search/search_index.json",
-    "site/search",
-    "site/05-Terminology/U-V-W-X-Y-Z/index.html",
-    "site/05-Terminology/U-V-W-X-Y-Z",
-    "site/05-Terminology/Q-R-S-T/index.html",
-    "site/05-Terminology/Q-R-S-T",
-    "site/05-Terminology/M-N-O-P/index.html",
-    "site/05-Terminology/M-N-O-P",
-    "site/05-Terminology/I-J-K-L/index.html",
-    "site/05-Terminology/I-J-K-L",
-    "site/assets/images/favicon.png"
+    "docs/01-Characterization/Genetic Inclusions/4 - X-Mutations.md"
   ]
 }
