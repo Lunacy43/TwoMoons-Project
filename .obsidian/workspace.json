@@ -13,8 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/04-Other Game Rules/Conditions and Effects/Basics and Quick List.md",
+                "file": "docs/01-Characterization/Stats/Other Stats.md",
                 "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3447a75e2f27588f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/05-Terminology/0 - Terminology Guide.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 200
   },
   "right": {
     "id": "2caca9e9c7e17936",
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/04-Other Game Rules/Conditions and Effects/Basics and Quick List.md",
+                "file": "docs/01-Characterization/Stats/Other Stats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/04-Other Game Rules/Conditions and Effects/Basics and Quick List.md",
+                "file": "docs/01-Characterization/Stats/Other Stats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/04-Other Game Rules/Conditions and Effects/Basics and Quick List.md"
+                "file": "docs/01-Characterization/Stats/Other Stats.md"
               }
             }
           }
@@ -146,19 +158,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9ae37b1f808a97d",
+  "active": "cb7866260f3ee433",
   "lastOpenFiles": [
+    "docs/00-Welcome/Character Set-Up.md",
+    "docs/00-Welcome/Copyright.md",
+    "docs/00-Welcome/Early Access Info.md",
+    "docs/00-Welcome/Quick Overview.md",
+    "docs/05-Terminology/0 - Terminology Guide.md",
+    "docs/05-Terminology/A-B-C-D.md",
+    "docs/05-Terminology/E-F-G-H.md",
+    "docs/06-Player Sheets/Sheets_Page5_(Notes)_(01-20-2024).pdf",
+    "docs/06-Player Sheets/Sheets_Page1_(Stats)_(01-19-2024).pdf",
+    "docs/06-Player Sheets/Sheets_Page4_(Traits)_(01-20-2024).pdf",
+    "docs/06-Player Sheets/Sheets_Page2_(Items)_(01-19-2024).pdf",
+    "docs/06-Player Sheets/Sheets_Page3_(Techniques)_(01-20-2024).pdf",
+    "docs/04-Other Game Rules/Conditions and Effects/Basics and Quick List.md",
     "docs/CNAME",
     "site/search/search_index.json",
     "site/search/search_index.js",
     "site/search",
     "site/05-Terminology/U-V-W-X-Y-Z.html",
-    "site/05-Terminology/Q-R-S-T.html",
-    "site/05-Terminology/M-N-O-P.html",
-    "site/05-Terminology/I-J-K-L.html",
-    "site/05-Terminology/E-F-G-H.html",
-    "site/05-Terminology/A-B-C-D.html",
-    "site/05-Terminology/0 - Terminology Guide.html",
     "site/assets/images/favicon.png",
     "docs/01-Characterization/Class/08 - Commoner.md",
     "docs/index.md",
@@ -177,13 +196,6 @@
     "docs/01-Characterization/Stats/Stress.md",
     "docs/01-Characterization/Stats/Detrus.md",
     "docs/01-Characterization/Stats/Skills.md",
-    "docs/01-Characterization/Stats/Other Stats.md",
-    "docs/01-Characterization/Stats/Noted Actions.md",
-    "docs/01-Characterization/Stats/Language and Communication.md",
-    "docs/01-Characterization/Stats/Knowledge.md",
-    "docs/01-Characterization/Stats/Health and Vitality.md",
-    "docs/01-Characterization/Stats/Energies and other Resources.md",
-    "docs/01-Characterization/Stats/Core Stats.md",
-    "docs/01-Characterization/Genetic Inclusions/4 - X-Mutations.md"
+    "docs/01-Characterization/Stats/Other Stats.md"
   ]
 }
