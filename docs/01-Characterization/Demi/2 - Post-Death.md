@@ -25,12 +25,12 @@ ________________________________________
 -	Prerequisite: -
 -	Description:  
 	-	Gain Stat: Flux Bank
--	Subtracted PWR amount from Energy Flux: Fault is stored here
-	-	 When using abilities with an energy resource, ACC roll is altered to now have:
-		-	Miss
-		-	Hit
-		-	Flux
-	-	If Flux is rolled: activate Energy Flux
+	-	Subtracted PWR amount from Energy Flux: Fault is stored here
+		-	 When using abilities with an energy resource, ACC roll is altered to now have:
+			-	Miss
+			-	Hit
+			-	Flux
+		-	If Flux is rolled: activate Energy Flux
 #### Energy Flux
 -	Trait: Demi: Post-Death: Enfluxed: Passive
 -	Action Cost: Free
