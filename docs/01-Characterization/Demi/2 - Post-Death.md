@@ -75,18 +75,18 @@ ________________________________________
 	-	Choose between Mentality and Awareness:
 		-	The chosen Stat group gets roll disadvantage(1)
 	-	Choose a Body Stat
-		-	From now on stat, Rolls using this stat gain a reduction chance:
+		-	From now on, stat rolls using this stat gain a reduction chance:
 			-	Roll 1d10 per 10 \[player levels] starting at 1d10. (If \[player level] is below 10, roll a 1d10)
 			-	Max Roll is the is the \[player level]. If roll is over \[player level], your limit is the \[player level].
 ## **Soul-Seared**
 
-| Points (B)<br>•  Total: 0<br>•  Positive: 0<br>•  Negative: 0                                                                                                                                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Typing:<br>•  Demi: Post-Death<br>Desc:<br>•  Origin<br>   ◦   Entity (you) must have at least 1(M) Spirit<br>   ◦   If the entity (you) died from Aeonic Damage or while having Infernum active on it, the entity (you) have a (20% + 5% per death) chance for this Demi to be applied |
-| Stats: (Main, Combined, Other)<br>Skills:                                                                                                                                                                                                                                               |
-| Special Effect (SE):<br>Resistance Chance: (Damage, Condition)<br>Speed: (Ground, Swim, Flight, Climb, Burrow)                                                                                                                                                                          |
-| Knowledge:<br>Language:                                                                                                                                                                                                                                                                 |
-| Trait(s): (Damage, Movement, Other)<br>•  Damage<br>•  Movement<br>•  Other<br>   ◦   Soul Seared Nature<br>   ◦   Cauterize<br>Nat.Weapons:<br>Other:                                                                                                                                  |
+| Points (B)<br>•  Total: 0<br>•  Positive: 0<br>•  Negative: 0                                                                                                                                                                                                                          |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Typing:<br>•  Demi: Post-Death<br>Desc:<br>•  Origin<br>   ◦   Entity (you) must have at least 1(M) Spirit<br>   ◦   If the entity (you) died from Aeonic Damage or while having Infernum active on it, the entity (you) has a (20% + 5% per death) chance for this Demi to be applied |
+| Stats: (Main, Combined, Other)<br>Skills:                                                                                                                                                                                                                                              |
+| Special Effect (SE):<br>Resistance Chance: (Damage, Condition)<br>Speed: (Ground, Swim, Flight, Climb, Burrow)                                                                                                                                                                         |
+| Knowledge:<br>Language:                                                                                                                                                                                                                                                                |
+| Trait(s): (Damage, Movement, Other)<br>•  Damage<br>•  Movement<br>•  Other<br>   ◦   Soul Seared Nature<br>   ◦   Cauterize<br>Nat.Weapons:<br>Other:                                                                                                                                 |
 ### **Expanded**
 #### Soul-Seared Nature
 -	Trait: Demi: Post-Death: Soul-Seared: Passive

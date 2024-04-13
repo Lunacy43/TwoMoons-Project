@@ -97,9 +97,9 @@ ________________________________________
 -	Description: 
 	-	The entity has a growing craving to eat their own kind
 	-	At the start of the day, the entity gains (6\[lv 1-6], 5\[lv 7-12], 4\[lv 13-18], 3\[lv 19-24], 2\[lv 25-30]) craving
-	-	At 70 craving, roll to keep yourself stable
+	-	At 70 craving, entity must roll to keep itself stable
 		-	1d100: success ≥ \[Craving]
-	-	If you fail, you have 2 options
+	-	If the roll fails, the entity has 2 options
 		-	Eat parts of self
 		-	Go feral and attack others until Craving is reduced to 0
 #### Ghoulish Appetite
@@ -113,14 +113,14 @@ ________________________________________
 -	Resource: Free
 -	Prerequisite: 
 -	Description: 
-	-	When you eat any of the below, Trigger Ghoulish Regeneration
-	-	When you eat a piece of your kind 
+	-	When entity eats any of the below, Trigger Ghoulish Regeneration
+	-	When entity eats a piece of their kind 
 		-	Heal (15\[lv 1-10], 30\[lv 11-20], 45\[lv 21-30])
 		-	Reduce craving by 30
-	-	When you eat a piece of a hybrid that’s mixed with your kind
+	-	When entity eats a piece of a hybrid that’s mixed with their kind
 		-	Heal (10\[lv 1-10], 20\[lv 11-20], 30\[lv 21-30])
 		-	Reduce craving by 15
-	-	When you eat a piece of yourself
+	-	When entity eats a piece of itself
 		-	Heal (5\[lv 1-10], 10\[lv 11-20], 15\[lv 21-30])
 		-	Reduce craving by 5
 		-	Gain 15 Stress	
@@ -144,5 +144,5 @@ ________________________________________
 			-	(1\[lvl1-3], 2\[lvl4-6], 3\[lvl7-9], 4\[lvl10-12], 5\[lvl13-15], 6\[lvl16-18], 7\[lvl19-21], 8\[lvl22-24], 9\[lvl25-27], 10\[lvl28-30]) Poison
 			-	(1\[lvl1-3], 2\[lvl4-6], 3\[lvl7-9], 4\[lvl10-12], 5\[lvl13-15], 6\[lvl16-18], 7\[lvl19-21], 8\[lvl22-24], 9\[lvl25-27], 10\[lvl28-30]) Wither
 	-	At the end of the ability, damaged and/or missing body parts are fully healed
-	- Note: Depending on the severity of the damaged and missing parts during regeneration, the character can be in great pain during this process
+	- Note: Depending on the severity of the damaged and missing parts during regeneration, the entity can be in great pain during this process
 
