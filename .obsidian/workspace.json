@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/01-Characterization/Genetic Inclusions/2 - Mental.md",
+                "file": "docs/05-Terminology/0 - Terminology Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/01-Characterization/Genetic Inclusions/2 - Mental.md",
+                "file": "docs/05-Terminology/0 - Terminology Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/01-Characterization/Genetic Inclusions/2 - Mental.md",
+                "file": "docs/05-Terminology/0 - Terminology Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/01-Characterization/Genetic Inclusions/2 - Mental.md"
+                "file": "docs/05-Terminology/0 - Terminology Guide.md"
               }
             }
           }
@@ -158,8 +158,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb7866260f3ee433",
+  "active": "f9ae37b1f808a97d",
   "lastOpenFiles": [
+    "site/06-Player Sheets/PDFs.html",
+    "site/06-Player Sheets/06-PlayerSheets.html",
+    "site/06-Player Sheets/06-Player Sheets.html",
+    "docs/00-Welcome/Character Set-Up.md",
+    "docs/01-Characterization/Genetic Inclusions/2 - Mental.md",
     "site/style.css",
     "site/Style.css",
     "site/New Text Document.txt",
@@ -167,7 +172,6 @@
     "docs/01-Characterization/Demi/2 - Post-Death.md",
     "docs/00-Welcome/Early Access Info.md",
     "docs/01-Characterization/Stats/Other Stats.md",
-    "docs/00-Welcome/Character Set-Up.md",
     "docs/00-Welcome/Copyright.md",
     "docs/00-Welcome/Quick Overview.md",
     "docs/05-Terminology/0 - Terminology Guide.md",
@@ -179,9 +183,6 @@
     "docs/06-Player Sheets/Sheets_Page2_(Items)_(01-19-2024).pdf",
     "docs/06-Player Sheets/Sheets_Page3_(Techniques)_(01-20-2024).pdf",
     "docs/04-Other Game Rules/Conditions and Effects/Basics and Quick List.md",
-    "docs/CNAME",
-    "site/search/search_index.json",
-    "site/search/search_index.js",
     "site/assets/images/favicon.png",
     "docs/01-Characterization/Class/08 - Commoner.md",
     "docs/index.md",
@@ -195,7 +196,6 @@
     "docs/01-Characterization/Class/04 - Rogues.md",
     "docs/01-Characterization/Class/03 - Fighters.md",
     "docs/01-Characterization/Class/02 - Innates.md",
-    "docs/01-Characterization/Class/01 - Base Class Info.md",
-    "docs/01-Characterization/Stats/Trainings.md"
+    "docs/01-Characterization/Class/01 - Base Class Info.md"
   ]
 }
