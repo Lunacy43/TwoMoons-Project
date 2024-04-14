@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/01-Characterization/Demi/3 - Other.md",
-                "mode": "preview",
+                "file": "docs/01-Characterization/Genetic Inclusions/2 - Mental.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/01-Characterization/Demi/3 - Other.md",
+                "file": "docs/01-Characterization/Genetic Inclusions/2 - Mental.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/01-Characterization/Demi/3 - Other.md",
+                "file": "docs/01-Characterization/Genetic Inclusions/2 - Mental.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/01-Characterization/Demi/3 - Other.md"
+                "file": "docs/01-Characterization/Genetic Inclusions/2 - Mental.md"
               }
             }
           }
@@ -160,6 +160,10 @@
   },
   "active": "cb7866260f3ee433",
   "lastOpenFiles": [
+    "site/style.css",
+    "site/Style.css",
+    "site/New Text Document.txt",
+    "docs/01-Characterization/Demi/3 - Other.md",
     "docs/01-Characterization/Demi/2 - Post-Death.md",
     "docs/00-Welcome/Early Access Info.md",
     "docs/01-Characterization/Stats/Other Stats.md",
@@ -178,8 +182,6 @@
     "docs/CNAME",
     "site/search/search_index.json",
     "site/search/search_index.js",
-    "site/search",
-    "site/05-Terminology/U-V-W-X-Y-Z.html",
     "site/assets/images/favicon.png",
     "docs/01-Characterization/Class/08 - Commoner.md",
     "docs/index.md",
@@ -194,8 +196,6 @@
     "docs/01-Characterization/Class/03 - Fighters.md",
     "docs/01-Characterization/Class/02 - Innates.md",
     "docs/01-Characterization/Class/01 - Base Class Info.md",
-    "docs/01-Characterization/Stats/Trainings.md",
-    "docs/01-Characterization/Stats/Stress.md",
-    "docs/01-Characterization/Stats/Detrus.md"
+    "docs/01-Characterization/Stats/Trainings.md"
   ]
 }
